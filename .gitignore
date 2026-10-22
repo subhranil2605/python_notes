@@ -11,3 +11,5 @@ wheels/
 .mypy_cache
 
 notebooks/
+
+day_11/data
