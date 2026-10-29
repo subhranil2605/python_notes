@@ -1,0 +1,8 @@
+2026-10-15T09:00:01 INFO login user=asha
+2026-10-15T09:00:04 ERROR payment failed order=ORD-1
+2026-10-15T09:00:09 INFO login user=ravi
+2026-10-15T09:00:12 WARN slow query ms=900
+2026-10-15T09:00:15 ERROR payment failed order=ORD-2
+2026-10-15T09:00:20 INFO logout user=asha
+2026-10-15T09:00:31 ERROR stock mismatch sku=PEN-01
+2026-10-15T09:00:40 INFO login user=meera
